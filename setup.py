@@ -3,7 +3,7 @@
 
 from setuptools import setup
 
-setup(name='Glide airbnb',
+setup(name='Glide Airbnb',
       version='1.1',
       description='airbnb themes for Glide.',
       author='Elie Schoppik',
