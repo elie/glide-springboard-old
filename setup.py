@@ -9,7 +9,7 @@ setup(name='Glide springboard',
       author='Elie Schoppik',
       author_email='eschoppik@gmail.com',
       url='https://github.com/elie/glide-springboard-old',
-      packages=['glide_springboard'],
+      packages=['glide_springboard_old'],
       install_requires=["glide"],
       include_package_data=True,
      )
