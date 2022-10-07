@@ -3,13 +3,13 @@
 
 from setuptools import setup
 
-setup(name='Glide Airbnb',
+setup(name='Glide springboard',
       version='1.1',
-      description='airbnb themes for Glide.',
+      description='springboard themes for Glide.',
       author='Elie Schoppik',
       author_email='eschoppik@gmail.com',
-      url='https://github.com/elie/glide-airbnb',
-      packages=['glide_airbnb'],
+      url='https://github.com/elie/glide-springboard-old',
+      packages=['glide_springboard'],
       install_requires=["glide"],
       include_package_data=True,
      )
