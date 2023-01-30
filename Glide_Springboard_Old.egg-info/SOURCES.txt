@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+Glide_Springboard_Old.egg-info/PKG-INFO
+Glide_Springboard_Old.egg-info/SOURCES.txt
+Glide_Springboard_Old.egg-info/dependency_links.txt
+Glide_Springboard_Old.egg-info/entry_points.txt
+Glide_Springboard_Old.egg-info/requires.txt
+Glide_Springboard_Old.egg-info/top_level.txt
+glide_springboard_old/themes/handouts-springboard-old/theme.conf
+glide_springboard_old/themes/handouts-springboard-old/static/logo.png
+glide_springboard_old/themes/revealjs-springboard-old/theme.conf
+glide_springboard_old/themes/revealjs-springboard-old/static/logo.png

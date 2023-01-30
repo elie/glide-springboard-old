@@ -12,4 +12,10 @@ setup(name='Glide Springboard Old',
       packages=['glide_springboard_old'],
       install_requires=["glide"],
       include_package_data=True,
-     )
+      entry_points={
+        'sphinx.html_themes': [
+            'revealjs-springboard = glide_springboard_old',
+            'handouts-springboard = glide_springboard_old',
+        ],
+    },
+)
