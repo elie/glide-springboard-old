@@ -3,7 +3,7 @@
 
 from setuptools import setup
 
-setup(name='Glide springboard',
+setup(name='Glide Springboard Old',
       version='1.1',
       description='springboard themes for Glide.',
       author='Elie Schoppik',
